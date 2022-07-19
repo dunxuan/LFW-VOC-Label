@@ -1,6 +1,6 @@
 # LFW-VOC-Label
 
-一张图片只有一张人脸，人脸的范围中包含额头、耳朵等裸露的头部皮肤。
+一张图片只标注了一张人脸，人脸的范围中包含额头、耳朵等裸露的头部皮肤。
 
 
 ---
@@ -26,3 +26,19 @@
 	copy_img_2_dir(is_train=True)
 	img_dir_2_txt(is_train=False)
 	copy_img_2_dir(is_train=False)
+
+
+---
+
+
+# License
+
+[MIT license](https://github.com/dunxuan/LFW-VOC-Label/blob/main/LICENSE)
+
+
+---
+
+
+# 相关
+
+使用[chaiwenda/ImgLabel](https://github.com/chaiwenda/ImgLabel)手动标注，
