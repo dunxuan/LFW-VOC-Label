@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>train</folder>
+	<filename>Mike_Scioscia_0001.jpg</filename>
+	<path>C:\RealEvo\FaceBoxes.PyTorch\data\LFW\train\Mike_Scioscia_0001.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>250</width>
+		<height>250</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>face</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>59</xmin>
+			<ymin>56</ymin>
+			<xmax>184</xmax>
+			<ymax>200</ymax>
+		</bndbox>
+	</object>
+</annotation>

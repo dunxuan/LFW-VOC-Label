@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>train</folder>
+	<filename>Choi_Sung-hong_0004.jpg</filename>
+	<path>C:\RealEvo\FaceBoxes.PyTorch\data\LFW\train\Choi_Sung-hong_0004.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>250</width>
+		<height>250</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>face</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>92</xmin>
+			<ymin>46</ymin>
+			<xmax>222</xmax>
+			<ymax>197</ymax>
+		</bndbox>
+	</object>
+</annotation>

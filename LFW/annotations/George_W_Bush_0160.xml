@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>train</folder>
+	<filename>George_W_Bush_0160.jpg</filename>
+	<path>C:\RealEvo\FaceBoxes.PyTorch\data\LFW\train\George_W_Bush_0160.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>250</width>
+		<height>250</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>face</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>66</xmin>
+			<ymin>49</ymin>
+			<xmax>200</xmax>
+			<ymax>206</ymax>
+		</bndbox>
+	</object>
+</annotation>

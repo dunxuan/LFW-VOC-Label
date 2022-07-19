@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>train</folder>
+	<filename>Jose_Maria_Aznar_0004.jpg</filename>
+	<path>C:\RealEvo\FaceBoxes.PyTorch\data\LFW\train\Jose_Maria_Aznar_0004.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>250</width>
+		<height>250</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>face</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>39</xmin>
+			<ymin>55</ymin>
+			<xmax>161</xmax>
+			<ymax>200</ymax>
+		</bndbox>
+	</object>
+</annotation>

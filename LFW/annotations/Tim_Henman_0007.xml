@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>train</folder>
+	<filename>Tim_Henman_0007.jpg</filename>
+	<path>C:\RealEvo\FaceBoxes.PyTorch\data\LFW\train\Tim_Henman_0007.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>250</width>
+		<height>250</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>face</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>75</xmin>
+			<ymin>56</ymin>
+			<xmax>207</xmax>
+			<ymax>203</ymax>
+		</bndbox>
+	</object>
+</annotation>
